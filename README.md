@@ -20,8 +20,6 @@ function sum(x, y) {
     return x + y;
     console.log("Hello World"); // esto NUNCA se ejecutará
 }
-<img width="968" height="833" alt="image" src="https://github.com/user-attachments/assets/b90a43b5-9aba-41ea-8db6-d3ba815caf2b" />
-
 ```
 
 ### Basic multiplication
@@ -29,7 +27,6 @@ function sum(x, y) {
 function multiply(a, b) {
     return a * b;
 }
-<img width="953" height="781" alt="image" src="https://github.com/user-attachments/assets/36b3398e-8570-41bc-8eb5-71f775a60055" />
 
 ```
 
